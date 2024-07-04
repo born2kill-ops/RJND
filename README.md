@@ -1,2 +1,2 @@
 # RJND
-private repository
+Hi, everyone.
